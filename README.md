@@ -1,4 +1,4 @@
-https://github.com/Behordeun/Data-Science-Nigeria---Staff-Promotion-Algorithm/edit/master/README.md#Data-Science-Nigeria---Staff-Promotion-Algorithm
+#Data-Science-Nigeria---Staff-Promotion-Algorithm
 
 CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION Abdullah’s Baba Yakub, 38, is the heir apparent to the highly revered Yakub business dynasty. The enterprise has spanned decades with vast investment interest in all the various sectors of the economy.
 
