@@ -1,4 +1,4 @@
-Data Science Ngeria - Staff Promotion Algorithm 
+</head> Data Science Ngeria - Staff Promotion Algorithm </head>
 
 CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION Abdullah’s Baba Yakub, 38, is the heir apparent to the highly revered Yakub business dynasty. The enterprise has spanned decades with vast investment interest in all the various sectors of the economy.
 
