@@ -34,7 +34,7 @@ The dataset contains these variables as explained below:
 
 • Trainingscoreaverage: Feedback score on training attended based on evaluation
 
-• StateOfOrigin: The state that the employee claims
+• StateOfOrigin: The state that the employee claims 
 
 • Foreign_schooled: An indicator of staff who had any of their post-secondary education outside the country. Responses are in Yes or No
 
